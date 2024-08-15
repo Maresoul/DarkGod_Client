@@ -1,0 +1,463 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity_Project\\DarkGod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\scripts\\system\\battlesys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\system\\battlesys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\scripts\\system\\gameroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\system\\gameroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|e:\\unity_project\\darkgod\\assets\\resources\\scripts\\system\\maincitysys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\system\\maincitysys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\scripts\\common\\systemroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\common\\systemroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\scripts\\common\\petools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\common\\petools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\scripts\\common\\pelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\common\\pelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\scripts\\common\\pathdefine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\common\\pathdefine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\scripts\\common\\maincitymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\common\\maincitymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\scripts\\common\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\common\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\rescfgs\\monster.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\rescfgs\\monster.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\scripts\\uiwindow\\playerctrlwnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\uiwindow\\playerctrlwnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\scripts\\uiwindow\\chatwnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\uiwindow\\chatwnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\scripts\\uiwindow\\guidewnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\uiwindow\\guidewnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\scripts\\uiwindow\\taskwnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\uiwindow\\taskwnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\scripts\\service\\netsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\service\\netsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\scripts\\uiwindow\\maincitywnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\uiwindow\\maincitywnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\scripts\\battle\\manager\\skillmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\battle\\manager\\skillmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\scripts\\battle\\manager\\battlemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\battle\\manager\\battlemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\scripts\\battle\\entity\\entityplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\battle\\entity\\entityplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\scripts\\battle\\entity\\entitymonster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\battle\\entity\\entitymonster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\scripts\\common\\basedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\common\\basedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\scripts\\uiwindow\\battleendwnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\uiwindow\\battleendwnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\scripts\\battle\\entity\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\battle\\entity\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\scripts\\battle\\fsm\\statedie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\battle\\fsm\\statedie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\scripts\\system\\fubensys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\system\\fubensys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|E:\\Unity_Project\\DarkGod\\assets\\resources\\scripts\\service\\ressvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74517C5A-3D96-83E5-DC95-5845B4929015}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\service\\ressvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainCitySys.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\System\\MainCitySys.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\System\\MainCitySys.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\System\\MainCitySys.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\System\\MainCitySys.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAGBiwGwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:10:29.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainCityMap.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Common\\MainCityMap.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Common\\MainCityMap.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Common\\MainCityMap.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Common\\MainCityMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:30:52.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameRoot.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\System\\GameRoot.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\System\\GameRoot.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\System\\GameRoot.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\System\\GameRoot.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAywEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:31:27.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PEListener.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Common\\PEListener.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Common\\PEListener.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Common\\PEListener.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Common\\PEListener.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAA4wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:30:57.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PETools.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Common\\PETools.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Common\\PETools.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Common\\PETools.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Common\\PETools.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:31:00.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BattleSys.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\System\\BattleSys.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\System\\BattleSys.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\System\\BattleSys.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\System\\BattleSys.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwBYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:05:37.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PathDefine.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Common\\PathDefine.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Common\\PathDefine.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Common\\PathDefine.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Common\\PathDefine.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAuwCoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:16:19.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SystemRoot.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Common\\SystemRoot.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Common\\SystemRoot.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Common\\SystemRoot.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Common\\SystemRoot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:31:02.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "monster.xml",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\ResCfgs\\monster.xml",
+              "RelativeDocumentMoniker": "Assets\\Resources\\ResCfgs\\monster.xml",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\ResCfgs\\monster.xml",
+              "RelativeToolTip": "Assets\\Resources\\ResCfgs\\monster.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-31T03:29:26.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerCtrlWnd.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\UIWindow\\PlayerCtrlWnd.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\UIWindow\\PlayerCtrlWnd.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\UIWindow\\PlayerCtrlWnd.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\UIWindow\\PlayerCtrlWnd.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAuwIwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:25:09.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GuideWnd.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\UIWindow\\GuideWnd.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\UIWindow\\GuideWnd.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\UIWindow\\GuideWnd.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\UIWindow\\GuideWnd.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAA1wDsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:59:50.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Common\\Constants.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Common\\Constants.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Common\\Constants.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Common\\Constants.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAA7wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:46:13.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskWnd.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\UIWindow\\TaskWnd.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\UIWindow\\TaskWnd.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\UIWindow\\TaskWnd.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\UIWindow\\TaskWnd.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAA1wAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:54:22.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainCityWnd.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\UIWindow\\MainCityWnd.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\UIWindow\\MainCityWnd.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\UIWindow\\MainCityWnd.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\UIWindow\\MainCityWnd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:54:08.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChatWnd.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\UIWindow\\ChatWnd.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\UIWindow\\ChatWnd.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\UIWindow\\ChatWnd.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\UIWindow\\ChatWnd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:53:59.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BattleMgr.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Battle\\Manager\\BattleMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Battle\\Manager\\BattleMgr.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Battle\\Manager\\BattleMgr.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Battle\\Manager\\BattleMgr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBgwAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:53:41.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NetSvc.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Service\\NetSvc.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Service\\NetSvc.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Service\\NetSvc.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Service\\NetSvc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:47:36.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SkillMgr.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Battle\\Manager\\SkillMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Battle\\Manager\\SkillMgr.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Battle\\Manager\\SkillMgr.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Battle\\Manager\\SkillMgr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBgwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:53:46.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EntityPlayer.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Battle\\Entity\\EntityPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Battle\\Entity\\EntityPlayer.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Battle\\Entity\\EntityPlayer.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Battle\\Entity\\EntityPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:53:27.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EntityMonster.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Battle\\Entity\\EntityMonster.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Battle\\Entity\\EntityMonster.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Battle\\Entity\\EntityMonster.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Battle\\Entity\\EntityMonster.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAMBowBQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:46:42.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Battle\\Entity\\EntityBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Battle\\Entity\\EntityBase.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Battle\\Entity\\EntityBase.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Battle\\Entity\\EntityBase.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAIBgwD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:21:35.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BattleEndWnd.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\UIWindow\\BattleEndWnd.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\UIWindow\\BattleEndWnd.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\UIWindow\\BattleEndWnd.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\UIWindow\\BattleEndWnd.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAA9wEgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:10:29.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseData.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Common\\BaseData.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Common\\BaseData.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Common\\BaseData.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Common\\BaseData.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAMBowG4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:34:14.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StateDie.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Battle\\FSM\\StateDie.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Battle\\FSM\\StateDie.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Battle\\FSM\\StateDie.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Battle\\FSM\\StateDie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:21:23.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FubenSys.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\System\\FubenSys.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\System\\FubenSys.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\System\\FubenSys.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\System\\FubenSys.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:05:07.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ResSvc.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Service\\ResSvc.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Service\\ResSvc.cs",
+              "ToolTip": "E:\\Unity_Project\\DarkGod\\Assets\\Resources\\Scripts\\Service\\ResSvc.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Service\\ResSvc.cs",
+              "ViewState": "AQIAAEEBAAAAAAAAAIBAwEEBAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:33:34.453Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
