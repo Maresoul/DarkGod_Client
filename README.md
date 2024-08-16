@@ -2,9 +2,9 @@
 
 Unity开发的3D-ARPG俯视角网络游戏，完整的客户端+服务端架构，实现常见的游戏业务系统和战斗模块。
 
-● gif形式展示，如果未显示稍等一段时间加载
+● ***gif形式展示，如果未显示稍等一段时间加载***
 
-● 完整项目演示地址：[项目演示地址](https://www.bilibili.com/video/BV1MpTkeCEWe/?spm_id_from=333.999.0.0&vd_source=15ce64d8f8fad36086523ce711dec730)
+● *完整项目演示地址：*[项目演示地址](https://www.bilibili.com/video/BV1MpTkeCEWe/?spm_id_from=333.999.0.0&vd_source=15ce64d8f8fad36086523ce711dec730)
 
 ## 项目架构
 
@@ -52,7 +52,7 @@ Unity开发的3D-ARPG俯视角网络游戏，完整的客户端+服务端架构�
     ![定时体力恢复系统](https://github.com/Maresoul/DarkGod_Client/blob/main/DisplayResources/tinywow_%E7%A6%BB%E7%BA%BF%E4%BD%93%E5%8A%9B%E5%9B%9E%E5%A4%8D_62451676.gif)
 13. **副本角色控制**
     ![角色状态控制](https://github.com/Maresoul/DarkGod_Client/blob/main/DisplayResources/tinywow_%E5%89%AF%E6%9C%AC%E8%A7%92%E8%89%B2%E6%8E%A7%E5%88%B6_62451732.gif)
-14. **技能表现（CD,位移，动画播放，伤害检测）**
+14. **技能表现（CD,位移，动画播放）**
     ![技能表现](https://github.com/Maresoul/DarkGod_Client/blob/main/DisplayResources/tinywow_%E6%8A%80%E8%83%BD%E8%A1%A8%E7%8E%B0_62451780.gif)
 15. **普攻连招**
     ![普攻连招](https://github.com/Maresoul/DarkGod_Client/blob/main/DisplayResources/tinywow_%E6%99%AE%E6%94%BB%E8%BF%9E%E6%8B%9B_62451857.gif)
