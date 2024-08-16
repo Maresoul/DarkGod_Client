@@ -27,7 +27,7 @@ Unity开发的3D-ARPG俯视角网络游戏，完整的客户端+服务端架构�
 ## 功能演示
 
 1. **登陆场景和角色创建(服务器端和数据库)**
-   ![登陆场景和角色创建](https://github.com/Maresoul/DarkGod_Client/blob/main/DisplayResources/tinywow_%E5%9C%BA%E6%99%AF%E5%8A%A0%E8%BD%BD_1_62447109.gif)
+   <imgsrc="https://github.com/Maresoul/DarkGod\_Client/blob/main/DisplayResources/tinywow\_%E5%9C%BA%E6%99%AF%E5%8A%A0%E8%BD%BD\_1\_62447109.gif"alt="登陆场景和角色创建"width="400" />
 2. **界面加载(异步)**
    ![界面加载](路径/到/gif图)
 3. **Tip动态提示**
